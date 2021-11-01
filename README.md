@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Database distrubution
 - 📫 How to reach me KTOS.Databases@Gmail.com
 - 
--First of all I am here to learn how Github might help me distribute these database packages to users that might want to uses them.
+First of all I am here to learn how Github might help me distribute these database packages to users that might want to uses them.
 
 I am developing the KTOS Databases using MS Access 2019 and MS Excel.
 
